@@ -7,7 +7,7 @@ Building distributed systems at scale. Creator of developer tools. Teaching DSA 
 ## 🔧 What I build
 - **[DataFormatterPro](https://dataformatterpro.com)** — 30+ browser-based developer utilities · 1,500+ monthly users
 - **[@Java-aid](https://github.com/Java-aid)** — Java solutions and interview prep · 2,000+ GitHub stars
-- **[DSA YouTube](https://youtube.com/c/KanahaiyaGupta)** — 38,000 subscribers
+- **[DSA YouTube](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA)** — 38,000 subscribers
 
 ## 🏗️ What I've shipped at work
 - Validar — cut Walmart production incidents 90%, recovered 2.3% of failing orders
