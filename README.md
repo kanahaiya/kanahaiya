@@ -5,8 +5,8 @@
 Building distributed systems at scale. Creator of developer tools. Teaching DSA to 38K engineers on YouTube.
 
 ## 🔧 What I build
-- **[DataFormatterPro](https://dataformatterpro.com)** — 30+ browser-based developer utilities · 1,500+ monthly users
-- **[@Java-aid](https://github.com/Java-aid)** — Java solutions and interview prep · 2,000+ GitHub stars
+- **[DataFormatterPro](https://dataformatterpro.com)** — 30+ browser-based developer utilities · 1.8K+ monthly users
+- **[@Java-aid](https://github.com/Java-aid)** — Java solutions and interview prep · 2K+ GitHub stars
 - **[DSA YouTube](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA)** — 38,000 subscribers
 
 ## 🏗️ What I've shipped at work
